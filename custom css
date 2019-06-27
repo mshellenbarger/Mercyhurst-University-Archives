@@ -1,0 +1,257 @@
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet"> 
+<style>
+
+/*hides top blue title bar*/
+#s-lg-guide-tabs-title-bar {display:none}
+
+
+/*hides breadcrumbs on footer of page*/
+#s-lg-guide-header-url {display:none}
+#s-lg-guide-header-updated {display:none}
+#s-lib-footer-support-link {display:none}
+
+
+#header-nav .navbar-default .navbar-nav>li>a {
+color: #fff !important;
+background-color; #fff !important;
+font-family: 'Open Sans', sans-serif;
+}
+
+#header-nav .navbar-default {
+margin-bottom: 0px;
+}
+
+
+/*modifies background color of top feature */
+#s-lg-box-20045818.s-lib-box {
+   background-color: #252527;
+   border: 0px  #454545;
+   padding-top: 30px;
+   padding-bottom: 25px;
+   border-radius: 0px;
+  margin-bottom: 0px;
+  margin-top: -5px;
+}
+
+/*modifies color of arrows for archives slider */
+.slick-prev:before, .slick-next:before {
+    color: white !important;
+    opacity: 1 !important;
+}
+
+/*makes ridge logo scale down properly in mobile view*/
+#responsive-image {  width: 100%;  height: auto; } 
+
+/*changes background color for open, hover and focused navbar links*/
+#header-nav .navbar-default .navbar-nav>.open>a,#header-nav .navbar-default .navbar-nav>.open>a:focus,#header-nav .navbar-default .navbar-nav>.open>a:hover {
+        background-color: #105d55
+        
+      }
+
+/*Editing the style of the search button*/
+.search-button-class{
+background-color:rgba(0,59,111,0.59);
+}
+
+#ridge_background{ 
+background-color :#0d4068;
+border: 0px double #190707;
+margin-top: -6px;
+}
+
+/*changes background color and text color of search box area university archives*/
+.jumbotron{
+background-color: #0f594e;
+color: #ffffff;
+margin-bottom: -20px;
+margin-top: 0px;
+border-radius: 0 !important;
+}
+
+/*adds border to archives search box on front page*/
+.search {
+padding: 1.5rem;
+border: 3.5px groove #fff;
+}
+@media (max-width: 768px) {
+#custom-header .navbar-brand {
+    float: none;
+    display: inline-block;
+    
+}
+}
+
+/*adds padding to content area*/
+.s-lib-side-borders {
+       padding: 0px 0px;
+       width: 100%;
+	}
+/*tucks skiplink out of view*/
+#s-lg-public-skiplink {
+	top: -70px;
+	}
+/*removes padding from body, sets body font*/
+.list-group {margin-bottom:0px;}
+.well {padding: 10px; background-color: rgba(245,245,245,0.4); margin-top: 10px;}
+
+body {
+	padding: 0px 0px;
+	font-family: 'Open Sans', sans-serif;
+  	color: #222222;
+  	font-size: 15px;
+  	background-color: #fff;
+        background-attachment: fixed;
+        background-position: center center;
+        overflow-x: hidden;
+        overflow-y: scroll;
+}
+  	}
+/*styles branding area - background color behind logo or banner*/
+#branding-area {
+	background-color: #000000;
+        padding: 8px;
+}
+/*styles links in branding area - not needed for banner image*/
+#branding-area a{
+	color: #fff;
+}
+
+/*styles branding area - background color behind logo or banner*/
+#branding-area {
+	background-color: #000000;
+        padding: 5px;
+}
+/*modifies menu text by hamburger menu, mobile view*/
+#menu-text {
+        padding-right: 5px; 
+        padding-left: 5px;
+	font-size: 0px;
+  	font-family: 'Open Sans', sans-serif;
+  	color: #FFFFFF;
+	} 
+
+
+#branding-area a:hover, #branding-area a:visited, #branding-area a:focus {
+	color: #e8e8e8
+}
+
+/*styles navbar background color, squares edges, sets font*/
+#header-nav .navbar-default {
+  background-color: #105d55;
+	border-color: #000000;
+	border-radius: 0px;
+  	font-family: 'Open Sans', sans-serif;
+        
+       
+}
+/*changes color for navbar links*/
+@media (min-width: 768px) {
+#header-nav .navbar-default .navbar-nav>li>a {
+padding-top: 45px;
+padding-bottom: 47px;
+padding-left: 15px;
+}
+}            
+
+
+  /*changes link color in expanded menus*/
+  #header-nav .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #000000;
+        font-size: 15px;
+       
+      }
+    
+
+  
+/*increases font size in dropdowns*/
+#header-nav .dropdown-menu>li>a {
+font-size: 15px;
+}  
+
+
+
+/*Footer styles*/
+
+footer {
+    background-color: #252527;
+    width: 100%;
+    bottom: 0;
+    font-weight: lighter;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+.footerHeader{
+    width:100%;
+    padding:1em;
+    text-align:center;
+    color:white;
+}
+footer h4{
+    font-weight:lighter;
+}
+footer ul{
+    padding-left:5px;
+    list-style:none;
+}
+footer p{
+    text-align : justify;
+    font-size : 9px;
+}
+footer iframe {
+    width:100%;
+    position:relative;
+    height:170px;
+}
+.sm{
+    list-style:none;
+    overflow:auto;
+}
+.sm li {
+    display: inline;
+    padding:5px;
+    float:left;
+} 
+.sm li a img {
+    width:32px;
+}
+
+  /*changes link color in expanded menus*/
+  #header-nav .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #000000;
+        font-size: 15px;
+       
+      }
+   /*media queries for mobile, 767 or less*/
+@media (max-width: 767px) {
+  /*changes background color for expanded menus*/
+  #header-nav .navbar-nav .open .dropdown-menu {
+  background-color: #FFFFFF;
+ 
+            }
+  /*changes link color in expanded menus*/
+  #header-nav .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #000000;
+        font-size: 18px;
+   
+      }
+
+/*media queries for non-mobile screens*/
+@media (min-width: 768px) {
+/*increases navbar font size*/
+#header-nav .navbar-default .navbar-nav>li>a {
+  font-size: 18px;
+
+}
+  
+/*increases font size in dropdowns*/
+#header-nav .dropdown-menu>li>a {
+font-size: 25px;
+}  
+
+@media (min-width: 1200px) {
+/*increases navbar font size on largest screensize*/
+#header-nav .navbar-default .navbar-nav>li>a {
+  font-size: 18px;}
+}
+
+</style>

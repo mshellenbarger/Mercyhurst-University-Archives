@@ -1,0 +1,68 @@
+<div class="jumbotron" id="ridge_background">
+<div class="container"><a class="navbar-brand"> </a>
+<center><img alt="ridge-logo" class="img-responsive" src="https://www.mercyhurst.edu/sites/default/files/glazed-cms-media/ridge_collection.png" /></center>
+
+<div class="search">
+<h3>Search The Ridge Collection</h3>
+
+<form accept-charset="UTF-8" action="https://archives.mercyhurst.edu/repositories/2/search" id="advanced_search" method="get"><input name="utf8" type="hidden" value="?" />
+<div class="row search_row" id="search_row_0">
+<div class="col-sm-1 bool form-group form-inline"><label class="sr-only" for="op0">Search operator</label> <select class="form-control hidden" disabled="disabled" id="op0" name="op[]"><option value="AND">And</option><option value="OR">Or</option><option value="NOT">Not</option></select> <input id="op_" name="op[]" type="hidden" value="" /></div>
+
+<div class="col-sm-3 form-group form-inline"><label class="sr-only repeats" for="q0">Enter your search terms</label> <input class="form-control repeats fill-column" id="q0" name="q[]" placeholder="Enter your search terms" style="font-size:11pt;padding-left:5px;margin-left:0px;border-radius:6px;width:90%; type=" text="" /></div>
+
+<div class="col-sm-3 form-group form-inline norepeat"><label class="sr-only" for="limit">Limit to %{limit}</label> <select class="form-control fill-column" id="limit" name="limit"><option selected="selected" value="">Search all record types</option><option value="resource">Limit to collections</option><option value="digital_object">Limit to digital materials</option></select></div>
+
+<div class="col-sm-5 form-group form-inline"><label class="sr-only repeats" for="field0">Search field</label> <select class="form-control repeats" id="field0" name="field[]"><option value="">Keyword</option><option value="title">Title</option><option value="creators_text">Creator</option><option value="subjects_text">Subject</option><option value="notes">Notes</option><option value="identifier">Identifier</option></select> <span class="inline-label repeats">Years:</span> <label class="sr-only repeats" for="from_year0">From year</label> <input class="form-control repeats" id="from_year0" maxlength="4" name="from_year[]" placeholder="From" size="4" type="text" /> <span class="inline-label repeats">To</span> <label class="sr-only repeats" for="to_year0">To year</label> <input class="form-control repeats" id="to_year0" maxlength="4" name="to_year[]" placeholder="To" size="4" type="text" /> <span class="plusminus"></span></div>
+</div>
+
+<div class="row" id="submit_div">
+<div class="col-sm-2"><input class="search-button-class" data-disable-with="Search" id="submit_search" name="commit" style="width:100%" type="submit" value="Search" /></div>
+
+<p>&nbsp;</p>
+</div>
+</form>
+</div>
+</div>
+
+<div>
+<hr /><iframe allowfullscreen="yes" frameborder="0" height="950" mozallowfullscreen="" scrolling="no" src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1H9iluu4bfjh-pDCa8iZlpOKEWrg7Em2WME9HPOek8YQ&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=950" webkitallowfullscreen="" width="100%"></iframe>
+
+<p>&nbsp;</p>
+</div>
+
+<hr />
+<p class="lead"><span style="font-size: 30px;">Collection Overview</span><span style="font-size: 30px;"></span></p>
+
+<div class="row featurette">
+<div class="col-md-7">
+<p class="lead">The Thomas J. and Michele Ridge Collection comprise approximately 1100 linear feet of documents, audiovisual materials, and artifacts. By the time the repository is open for research use, we will have made available approximately 1,125,000 pages of documents, 3000 audiovisual items, 10,000 photographs, and 1500 artifacts. The collection mainly spans Secretary Ridge&#39;s time as governor of the Commonwealth of Pennsylvania (1995-2001) and documents many significant events of his administration. The acquisition is of great benefit to Mercyhurst University, both in terms of its potential on-campus use and for the creation of a robust research environment. The collection contains a wealth of significant primary materials, such as the Governor and First Lady&#39;s schedules throughout their tenure in Harrisburg, which includes the text of all their speeches. Mrs. Ridge was particularly diligent in the collection of related ephemera, which is of tremendous exhibition value. Other notable materials document the renovation of the Governor&#39;s residence and gardens, shipbuilding, international trade, and the marketing of the Commonwealth&#39;s natural and cultural resources. The First Lady&#39;s papers provide insight into her numerous public appearances and causes, ranging from the PA Partnership for Children to the Pennsylvania Breast Cancer Coalition. The collection is ripe for development as a teaching tool for a number of Mercyhurst&nbsp;programs, including intelligence studies, applied politics, public history, and marketing.</p>
+</div>
+
+<div class="col-md-5"><iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="1" height="315" scrolling="no" src="https://www.youtube.com/embed/90aghrt4KUY" width="560"></iframe></div>
+
+<p class="lead"><span style="color: inherit; font-family: inherit; font-size: 30px;"></span><br />
+&nbsp;</p>
+</div>
+
+<hr class="featurette-divider" />
+<div class="row featurette">
+<div class="col-md-7 col-md-push-5">
+<p class="lead"><span style="font-size: 30px;">Mission</span><span style="font-size: 30px;"></span><br />
+The Thomas J. &amp; Michele Ridge Collection at Mercyhurst University documents their public service, specifically focusing on Secretary Ridge&rsquo;s term as the 43rd Governor of Pennsylvania (1995-2001). Mercyhurst University&rsquo;s Center for Archival Projects serves to preserve, arrange and make available the Ridge Collection to students, faculty, scholars and the public who wish to expand their knowledge of the Ridges&rsquo; years of public service to the city of Erie, the Commonwealth of Pennsylvania and the United States.</p>
+</div>
+
+<div class="col-md-5 col-md-pull-7"><img alt="Image of Archives" class="featurette-image img-responsive center-block" data-holder-rendered="true" data-src="holder.js/500x500/auto" src="https://summit.mercyhurst.edu/Digitization/archives_webpage/ridge_archives.jpg" style="width: 720px; height: 540px; border-width: 5px; border-style: solid;" /></div>
+</div>
+
+<hr class="featurette-divider" />
+<div class="row featurette">
+<div class="col-md-7">
+<h2 class="featurette-heading">Image of the Week. Golf.</h2>
+
+<p class="lead">Tom Ridge playing golf with Tiger Woods and Prince Willliam.</p>
+</div>
+
+<div class="col-md-5"><img alt="Ridge with Tiger Woods and Prince William" class="featurette-image img-responsive center-block" data-holder-rendered="true" data-src="holder.js/500x500/auto" src="https://summit.mercyhurst.edu/Digitization/ridge/photos/ridge_with_woods_windsor.jpg" style="border-width: 5px; border-style: solid; width: 640px; height: 454px;" /></div>
+</div>
+</div>

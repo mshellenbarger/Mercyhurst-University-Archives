@@ -1,0 +1,62 @@
+<div data-type="countdown" data-id="1164473" class="tickcounter" style="width: 100%; position: relative; padding-bottom: 5%"><a href="//www.tickcounter.com/countdown/1164473/mercyhurst-centennial" title="Mercyhurst Centennial">Mercyhurst Centennial</a><a href="//www.tickcounter.com/" title="Countdown">Countdown</a></div><script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script>
+<div class="jumbotron">
+<div class="container">
+<h3><strong>Welcome to the Mercyhurst University Archives!</strong></h3>
+
+<div class="hidden-xs hidden-sm">
+<p>The University Collections contain a wealth of primary source material pertaining to important documents, institutional records, ephemera and realia about the University. The Ridge Collection contains material pertaining to important public policy matters covering Governor Ridge&#39;s time in office, along with extensive resources pertaining to First Lady Michele Ridge&#39;s commitment to and involvement with a number of important issues affecting the lives of Pennsylvanians.</p>
+</div>
+
+<div class="search" role="search">
+<h3>Search The Archives</h3>
+
+<form action="https://archives.mercyhurst.edu/search" id="advanced_search" method="get"><input name="utf8" type="hidden" value="✓" />
+<div class="row search_row" id="search_row_0">
+<div class="col-sm-1 bool form-group form-inline"><label class="sr-only" for="op0">Search operator</label> <select class="form-control hidden" disabled="disabled" id="op0" name="op[]"><option value="AND">And</option><option value="OR">Or</option><option value="NOT">Not</option></select> <input id="op_" name="op[]" type="hidden" value="" /></div>
+
+<div class="col-sm-3 form-group form-inline"><label class="sr-only repeats" for="q0">Enter your search terms</label> <input class="form-control repeats fill-column" id="q0" name="q[]" placeholder="Enter your search terms" style="font-size:11pt;padding-left:5px;margin-left:0px;border-radius:6px;width:90%; type=" /></div>
+
+<div class="col-sm-3 form-group form-inline norepeat"><label class="sr-only" for="limit">Limit to %{limit}</label> <select class="form-control fill-column" id="limit" name="limit"><option selected="selected" value="">Search all record types</option><option value="resource">Limit to collections</option><option value="digital_object">Limit to digital materials</option></select></div>
+
+<div class="col-sm-5 form-group form-inline"><label class="sr-only repeats" for="field0">Search field</label> <select class="form-control repeats" id="field0" name="field[]"><option value="">Keyword</option><option value="title">Title</option><option value="creators_text">Creator</option><option value="subjects_text">Subject</option><option value="notes">Notes</option><option value="identifier">Identifier</option></select> <span class="inline-label repeats">Years:</span> <label class="sr-only repeats" for="from_year0">From year</label> <input class="form-control repeats" id="from_year0" maxlength="4" name="from_year[]" placeholder="From" size="4" type="text" /> <span class="inline-label repeats">To</span> <label class="sr-only repeats" for="to_year0">To year</label> <input class="form-control repeats" id="to_year0" maxlength="4" name="to_year[]" placeholder="To" size="4" type="text" /> <span class="plusminus"></span></div>
+</div>
+
+<div class="row" id="submit_div">
+<div class="col-sm-2"><input class="search-button-class" data-disable-with="Search" id="submit_search" name="commit" style="width:100%" type="submit" value="Search" /></div>
+</div>
+</form>
+</div>
+</div>
+</div>
+
+<hr class="featurette-divider" />
+<div class="row featurette">
+<div class="col-md-6 col-sm-push-1">
+<h2 class="featurette-heading">Image of the Month. <span class="text-muted">May Day&nbsp;1932.</span></h2>
+
+<p class="lead">In May 1931&nbsp;&ndash; The First May Crowning was held at Mercyhurst. The May Crowning was one of the graduation celebrations held along with a visit from the Bishop, special dinner, and Charter Day. The annual event was held in the grotto and later moved to the front of the campus. Many parents and residents of Erie would come to the celebration. The last May Crowning was held in 1968 at the request of the students who thought it was an outdated activity.&nbsp;&nbsp;</p>
+</div>
+
+<p style="text-align: center;"><img alt="May Day 1932" src="https://summit.mercyhurst.edu/digitization/may_day/1932/UA-10-00015.jpg" style="width: 500px; height: 323px; border-width: 0px; border-style: solid;" /></p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<div class="col-md-7 col-md-push-5">
+<h2 class="featurette-heading">Did you Know?<span class="text-muted">&nbsp;Mercyhurst&nbsp;conducted&nbsp;cancer research.&nbsp;</span></h2>
+
+<p class="lead">The Archives has digitized two scrapbooks containing information from&nbsp;Sister Mary Eymard Poydock who&nbsp;conducted cancer research from 1965-1988. The results of the findings were broadcast coast to coast&nbsp;on CBS under the title &quot;Report on Medicine.&quot; To view the scrapbooks click this <a href="https://archives.mercyhurst.edu/repositories/3/digital_objects/316">link</a>.</p>
+</div>
+
+<div class="col-md-5 col-md-pull-7"><a href="https://summit.mercyhurst.edu/digitization/UA-300-Cancer/UA-300-Cancer-00001.pdf" target="_blank"><img alt="Cancer Research" class="featurette-image img-responsive center-block" data-holder-rendered="true" data-src="holder.js/500x500/auto" src="https://summit.mercyhurst.edu/digitization/UA-300-Cancer/UA-300-Cancer-00001.jpg" style="width: 500px; height: 711px; border-width: 0px; border-style: solid;" /></a></div>
+</div>
+
+<hr class="featurette-divider" />
+<div class="row featurette">
+<div class="col-md-6 col-sm-push-1">
+<h2 class="featurette-heading">And lastly, new content.&nbsp;<span class="text-muted">Sr. Carolyn Herrmann.&nbsp;</span></h2>
+
+<p class="lead">The Sr. Carolyn Herrmann collection has been digitized. Sr. Carolyn was president of Mercyhurst from&nbsp;1963-1972.&nbsp;The collection consists of many of the speeches given by her and several photographs depicting her time at Mercyhurst.</p>
+</div>
+
+<div class="col-md-6"><a href="https://archives.mercyhurst.edu/repositories/3/digital_objects/315"><img alt="image of scanner" class="featurette-image img-responsive center-block" data-holder-rendered="true" data-src="holder.js/500x500/auto" src="https://summit.mercyhurst.edu/digitization/UA-129-Herrmann/photographs/miscellaneous/UA-129-mis-00011.jpg" style="border-width: 0px; border-style: solid; width: 400px; height: 550px;" /></a></div>
+</div>

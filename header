@@ -1,0 +1,71 @@
+<div id="custom-header">
+	<div id="branding-area">
+		<div class="container">
+			<div class="row">
+<div class="col-md-6">
+				</div>
+				<div class="col-md-6">
+					<div id="header links" class="pull-right">
+                  <a href="https://library.mercyhurst.edu/Contact-the-University-Archivist"><i class="fa fa-envelope" aria-hidden="false"></i>&nbsp;Contact the University Archivist</a>
+
+                                         </div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+<div id="header-nav">
+	<nav class="navbar navbar-default" >
+	  <div class="container">
+ <a class="navbar-brand" href="https://library.mercyhurst.edu/archives">
+                <img src="https://libapps.s3.amazonaws.com/customers/3632/images/mhu.png" alt="Mercyhurst University Libraries">
+            </a>
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header">
+		  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-navbar-collapse-1" aria-expanded="false">
+			<span class="sr-only">Toggle navigation</span>        
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>        
+		  </button>      
+		  <p class="navbar-text visible-xs pull-right" id="menu-text">Menu</p>
+		</div>
+       
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="main-navbar-collapse-1">
+		   
+<ul class="nav navbar-nav">
+
+			<li class="hidden-xl-up"><a href="https://library.mercyhurst.edu/archives" ><span class="glyphicon glyphicon-home" aria-hidden="false"></span><span class="sr-only">Library Home</span></a></li>
+			<!--        <li class="nav navbar-nav">         				
+			<li><a href="link goes here for finding aid page">FINDING AIDS</a></li> 
+    <li class="nav navbar-nav">       -->  				
+	     
+<li><a href=" https://library.mercyhurst.edu/archives-timeline">UNIVERSITY TIMELINE</a></li> 
+    <li class="nav navbar-nav">         				
+		<li><a href="https://library.mercyhurst.edu/ridge-collection">THOMAS J. & MICHELE RIDGE COLLECTION</a></li> 
+    <li class="nav navbar-nav">         				
+     		
+  <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HISTORY <span class="caret"></span></a>
+          <ul class="dropdown-menu">		
+         <li><a href="https://library.mercyhurst.edu/ld.php?content_id=45020323">University Archives Collection</a></li>
+  <li role="separator" class="divider"></li>
+         <li><a href="https://library.mercyhurst.edu/ld.php?content_id=45020398">Tom and Michele Ridge Collection</a></li>
+
+</ul>
+       <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">POLICIES<span class="caret"></span></a>
+   <ul class="dropdown-menu">	
+<li><a href="https://library.mercyhurst.edu/ld.php?content_id=44859683">Collections Policy</a></li>
+ <li role="separator" class="divider"></li>
+<li><a href="https://library.mercyhurst.edu/ld.php?content_id=44875246">Duplication Policy</a></li>
+</ul>
+    
+		</div><!-- /.navbar-collapse -->
+	
+	  </div><!-- /.container-fluid -->
+	</nav>
+	</div>
+</div>
